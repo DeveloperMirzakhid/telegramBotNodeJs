@@ -1,0 +1,22 @@
+{
+  "name": "telegrambotnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperMirzakhid/telegramBotNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperMirzakhid/telegramBotNodeJs/issues"
+  },
+  "homepage": "https://github.com/DeveloperMirzakhid/telegramBotNodeJs#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
