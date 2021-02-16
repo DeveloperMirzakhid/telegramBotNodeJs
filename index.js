@@ -45,7 +45,10 @@ const chatId = msg.chat.id
 				request_location: true
 			}],
 			['Reply','Close'], 
-			['Send Contact']
+			[{
+				text:'Send Contact',
+				request_contact:true
+			}]
 			]
 		}
 	})
